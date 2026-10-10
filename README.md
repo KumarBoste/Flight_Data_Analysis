@@ -22,6 +22,9 @@ The project demonstrates SQL techniques including `INNER JOIN`, aggregate functi
 | `Tickets` |	Ticket IDs, passenger/flight relationships, and ticket prices |
 | `Passengers` |	Passenger details and frequent-flyer status |
 
+## ER Diagram
+![erdiagram](https://github.com/KumarBoste/Flight_Data_Analysis/blob/main/ER%20Diagram.png)
+
 ## Database & Schema/Tables
 ### Database
 ```sql
